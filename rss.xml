@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Javier.SG]]></title>
+        <description><![CDATA[Javier.SG]]></description>
+        <link>https://thegrid.ai/javier/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 14 Nov 2015 02:37:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/javier/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello world!]]></title>
+            <description><![CDATA[<h1>Hello world!</h1>]]></description>
+            <link>https://thegrid.ai/javier/18b0ccf9-24ec-4958-81c9-6740d73dd50c/index.html</link>
+            <guid isPermaLink="false">18b0ccf9-24ec-4958-81c9-6740d73dd50c</guid>
+            <pubDate>Sat, 14 Nov 2015 02:36:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
