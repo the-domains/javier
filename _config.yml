@@ -1,20 +1,8 @@
-title: Javier.SG
-cta:
-  version: null
-  bucket: null
-  domain: null
-layout_spectrum: 1
-favicon: null
 name: Javier
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 1
+title: Javier.SG
 collections:
   - index:
       navigable: true
@@ -27,10 +15,22 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
+  brandColors: []
   brandStrength: 0.7610636041499674
   lightness: 0.8638298
   saturation: 0.687234
   rhythmicContrast: 0.3366213
-  brandColors: []
-typography_spectrum: 1
+purpose: []
